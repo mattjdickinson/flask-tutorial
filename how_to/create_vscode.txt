@@ -1,0 +1,5 @@
+CLick bug icon on right-hand side
+Click gear icon at top left
+Select Flask
+Save
+Python: Flask should now appear in drop down

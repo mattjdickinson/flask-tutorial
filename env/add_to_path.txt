@@ -1,0 +1,14 @@
+Once created new virtual environment need to activate and add to path
+To activate:
+source env/bin/activate
+
+To add to path:
+Enter in terminal: sudo nano /etc/paths
+Add path at end of this, e.g.: /matt/Python/flask-tutorial/env/bin
+ctrl + x to quit
+y to save
+
+enter to come out
+
+
+https://www.educative.io/edpresso/how-to-add-python-to-the-path-variable-in-mac

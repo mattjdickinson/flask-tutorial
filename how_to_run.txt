@@ -1,0 +1,6 @@
+Tutorial incorrect.
+FInal step should be:
+export set FLASK_APP=hello_app.webapp
+python3 -m flask run
+
+https://stackoverflow.com/questions/62585946/flask-error-in-python-could-not-import-webapp#:~:text=The%20error%20is%20because%20the,VS%20Code%20tutorial%20for%20Flask.&text=In%20terminal%2C%20run%20export%20set,as%20mentioned%20in%20the%20tutorial.
